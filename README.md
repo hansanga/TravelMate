@@ -16,7 +16,34 @@
 
 ## 개발 기간
 - 2025 4/25 ~ 5/19
-<br/>
+
+## 개발환경
+#### Languages
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
+#### Frameworks/Libraries
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+#### Data Fetching & State
+<div class="flex flex-wrap items-center gap-2">
+   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+   <img src="https://img.shields.io/badge/zustand-4D2B1A?style=for-the-badge&logo=zustand&logoColor=white">
+
+#### Styling
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
+#### Version Control & Collaboration
+<div class="flex flex-wrap items-center gap-2">
+   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+
+
+#### Design
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+<br/><br/>
 
 ## 팀원 구성
 | 남윤서 | 김태연A | 이예빈 | 한상아 | 심유진 |
@@ -35,7 +62,5 @@
 ## 디렉토리 구조
 
 ## 주요기능
-
-## 개발환경
 
 ## 트러블슈팅
