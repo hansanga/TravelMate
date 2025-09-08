@@ -1,6 +1,6 @@
 # ✈️ 장소가 아닌 일정에서 시작하는 여행 공유 플랫폼, TravelMate
 
-![Group 176](https://github.com/user-attachments/assets/011b2c55-55ac-42d2-bc19-0fd9fe0a6f25)
+<img width="1215" height="810" alt="Group 167" src="https://github.com/user-attachments/assets/1b2d2b1c-6268-41a6-b0c5-88e68085c84a" />
 
 - 배포 URL : [TravelMate](https://clinquant-kangaroo-7d97f3.netlify.app/)
 <br/>
